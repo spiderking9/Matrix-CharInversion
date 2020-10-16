@@ -1,0 +1,13 @@
+C:\Users\Luk\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\AgileroKrakow.exe
+C:\Users\Luk\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\AgileroKrakow.deps.json
+C:\Users\Luk\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\AgileroKrakow.runtimeconfig.json
+C:\Users\Luk\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\AgileroKrakow.runtimeconfig.dev.json
+C:\Users\Luk\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\AgileroKrakow.dll
+C:\Users\Luk\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\AgileroKrakow.pdb
+C:\Users\Luk\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\AgileroKrakow.csprojAssemblyReference.cache
+C:\Users\Luk\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\AgileroKrakow.AssemblyInfoInputs.cache
+C:\Users\Luk\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\AgileroKrakow.AssemblyInfo.cs
+C:\Users\Luk\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\AgileroKrakow.csproj.CoreCompileInputs.cache
+C:\Users\Luk\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\AgileroKrakow.dll
+C:\Users\Luk\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\AgileroKrakow.pdb
+C:\Users\Luk\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\AgileroKrakow.genruntimeconfig.cache
